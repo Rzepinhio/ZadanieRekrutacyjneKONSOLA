@@ -10,10 +10,10 @@ namespace ZadanieRekrutacyjneKONSOLA
         private readonly HttpClient _httpClient;
         string link = "https://catfact.ninja/fact";
 
-        public CatFactFetcher(HttpClient httpClient, string link)
+        public CatFactFetcher(HttpClient httpClient)
         {
             _httpClient = httpClient;
-            this.link = link;
+            //this.link = link;
         }
 
         public async Task<CatFactResponse> ConnectAsync()

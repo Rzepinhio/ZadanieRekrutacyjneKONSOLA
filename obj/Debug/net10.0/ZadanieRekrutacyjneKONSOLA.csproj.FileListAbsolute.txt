@@ -1,0 +1,15 @@
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\bin\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.exe
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\bin\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.deps.json
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\bin\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.runtimeconfig.json
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\bin\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.dll
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\bin\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.pdb
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.AssemblyInfoInputs.cache
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.AssemblyInfo.cs
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.csproj.CoreCompileInputs.cache
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.sourcelink.json
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.dll
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\refint\ZadanieRekrutacyjneKONSOLA.dll
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.pdb
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ZadanieRekrutacyjneKONSOLA.genruntimeconfig.cache
+C:\Programowancje\ZadanieRekrutacyjneKONSOLA\obj\Debug\net10.0\ref\ZadanieRekrutacyjneKONSOLA.dll
