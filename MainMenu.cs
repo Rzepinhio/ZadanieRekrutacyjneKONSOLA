@@ -30,7 +30,7 @@ namespace ZadanieRekrutacyjneKONSOLA
             HandleUserMenuInput();
         }
 
-        private async void HandleUserMenuInput()
+        private async Task HandleUserMenuInput()
         {
             Console.WriteLine();
             Console.Write("Opcja: ");
@@ -56,7 +56,7 @@ namespace ZadanieRekrutacyjneKONSOLA
             }
         }
 
-        private async void HandleConnectionResponse()
+        private async Task HandleConnectionResponse()
         {
             _catFactFetcher = new CatFactFetcher(_httpClient);
             catFactResponse = await _catFactFetcher.ConnectAsync();
@@ -130,7 +130,8 @@ namespace ZadanieRekrutacyjneKONSOLA
                 line = sr.ReadLine();
             }
             sr.Close();
-
+            Console.WriteLine();
+            Console.WriteLine("Wcisnij dowlony przycisk, aby kontynuowac...");
             Console.ReadKey();
             LoadMenu();
         }

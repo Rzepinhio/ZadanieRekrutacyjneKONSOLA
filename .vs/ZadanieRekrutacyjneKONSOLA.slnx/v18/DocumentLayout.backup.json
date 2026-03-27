@@ -11,24 +11,24 @@
       "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\ifilesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:ifilesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\catfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:catfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\icatfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:icatfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\catfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:catfactfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\catfactresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:catfactresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\ifilesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:ifilesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|c:\\programowancje\\zadanierekrutacyjnekonsola\\filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA849B2-994E-4FD0-4DCA-97A2649115B2}|ZadanieRekrutacyjneKONSOLA.csproj|solutionrelative:filesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T10:34:37.347Z",
               "IsPinned": true,
@@ -62,14 +62,14 @@
               "RelativeDocumentMoniker": "MainMenu.cs",
               "ToolTip": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\MainMenu.cs",
               "RelativeToolTip": "MainMenu.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAcwIEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T12:18:02.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FileSaver.cs",
               "DocumentMoniker": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\FileSaver.cs",
               "RelativeDocumentMoniker": "FileSaver.cs",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IFileSaver.cs",
               "DocumentMoniker": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\IFileSaver.cs",
               "RelativeDocumentMoniker": "IFileSaver.cs",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "CatFactResponse.cs",
               "DocumentMoniker": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\CatFactResponse.cs",
               "RelativeDocumentMoniker": "CatFactResponse.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ICatFactFetcher.cs",
               "DocumentMoniker": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\ICatFactFetcher.cs",
               "RelativeDocumentMoniker": "ICatFactFetcher.cs",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CatFactFetcher.cs",
               "DocumentMoniker": "C:\\Programowancje\\ZadanieRekrutacyjneKONSOLA\\CatFactFetcher.cs",
               "RelativeDocumentMoniker": "CatFactFetcher.cs",

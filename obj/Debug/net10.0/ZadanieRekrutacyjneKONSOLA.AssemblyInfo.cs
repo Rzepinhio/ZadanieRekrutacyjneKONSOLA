@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZadanieRekrutacyjneKONSOLA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ede990a7d77fc42019750e3f29fa5933619524")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825bc0755aafdff5400adac21a33cecba1b3e018")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZadanieRekrutacyjneKONSOLA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZadanieRekrutacyjneKONSOLA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

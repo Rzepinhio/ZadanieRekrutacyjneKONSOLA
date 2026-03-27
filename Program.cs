@@ -10,8 +10,7 @@ namespace ZadanieRekrutacyjneKONSOLA
             HttpClient client = new HttpClient();
             MainMenu menu = new MainMenu(client);
             menu.LoadMenu();
-            while (true) { };
-            Console.ReadLine();
+            await Task.Delay(-1);
         }
     }
 }
